@@ -1,7 +1,7 @@
 local windows = loadstring(game:HttpGet("https://raw.githubusercontent.com/ZepsyyCodesLUA/Synapse-Library-OBFUSCATED-/main/Source.lua"))()
 local win = windows:Create({
-    Title = "Rens X Daniel Ware ",
-    Game = "skids"
+    Title = "Rens X Daniel",
+    Game = "Sofie Gay"
 })
 
 local tab = win:NewTab({
